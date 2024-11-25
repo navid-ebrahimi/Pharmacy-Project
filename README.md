@@ -53,7 +53,7 @@ The project's success is measured against:
 - Usability and design quality of the interface.
 
 ### Additional Features
-- **Graphical User Interface (Optional)**: An optional enhancement for improved user interaction.
+- **Graphical User Interface**: For improved user interaction.
 - **Operation Logging**: Ability to display all operations performed during a session for review and debugging.
 
 ---
